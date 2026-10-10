@@ -1,0 +1,15 @@
+# Gay Bar Mexican Standoff - AI 게임 의존성
+
+# HTTP 요청을 위한 라이브러리
+requests>=2.31.0
+
+# 데이터 처리
+dataclasses-json>=0.6.0
+
+# 추가적으로 필요할 수 있는 라이브러리들
+# (현재 프로젝트는 표준 라이브러리 위주로 구현되어 있음)
+
+# 개발 및 테스트용 (선택사항)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
